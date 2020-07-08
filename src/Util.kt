@@ -1,0 +1,1 @@
+fun <E> rest(collection: Collection<E>) = collection.drop(1)
